@@ -1,0 +1,10 @@
+﻿  Ejercicio8.cpp
+C:\Users\ignad\OneDrive - UNIVERSIDAD BLAS PASCAL\ING INFORMATICA 2014\SEMESTRE 6\PGE\Tarea_4\Ejercicio8\Ejercicio8.cpp(4,9): warning C4005: 'UNICODE': redefinición de macro
+      C:\Users\ignad\OneDrive - UNIVERSIDAD BLAS PASCAL\ING INFORMATICA 2014\SEMESTRE 6\PGE\Tarea_4\Ejercicio8\Ejercicio8.cpp(4,9):
+      'UNICODE' declarado previamente en la línea de comandos
+  
+C:\Users\ignad\OneDrive - UNIVERSIDAD BLAS PASCAL\ING INFORMATICA 2014\SEMESTRE 6\PGE\Tarea_4\Ejercicio8\Ejercicio8.cpp(5,9): warning C4005: '_UNICODE': redefinición de macro
+      C:\Users\ignad\OneDrive - UNIVERSIDAD BLAS PASCAL\ING INFORMATICA 2014\SEMESTRE 6\PGE\Tarea_4\Ejercicio8\Ejercicio8.cpp(5,9):
+      '_UNICODE' declarado previamente en la línea de comandos
+  
+  Ejercicio8.vcxproj -> C:\Users\ignad\OneDrive - UNIVERSIDAD BLAS PASCAL\ING INFORMATICA 2014\SEMESTRE 6\PGE\Tarea_4\Ejercicio8\x64\Debug\Ejercicio8.exe

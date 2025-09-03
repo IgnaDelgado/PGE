@@ -1,0 +1,12 @@
+C:\Users\ignad\OneDrive - UNIVERSIDAD BLAS PASCAL\ING INFORMATICA 2014\SEMESTRE 6\PGE\EjerciciosFlash\Tarea_5\bin\Debug\Tarea_5.exe.config
+C:\Users\ignad\OneDrive - UNIVERSIDAD BLAS PASCAL\ING INFORMATICA 2014\SEMESTRE 6\PGE\EjerciciosFlash\Tarea_5\bin\Debug\Tarea_5.exe
+C:\Users\ignad\OneDrive - UNIVERSIDAD BLAS PASCAL\ING INFORMATICA 2014\SEMESTRE 6\PGE\EjerciciosFlash\Tarea_5\bin\Debug\Tarea_5.pdb
+C:\Users\ignad\OneDrive - UNIVERSIDAD BLAS PASCAL\ING INFORMATICA 2014\SEMESTRE 6\PGE\EjerciciosFlash\Tarea_5\obj\Debug\Tarea_5.csproj.AssemblyReference.cache
+C:\Users\ignad\OneDrive - UNIVERSIDAD BLAS PASCAL\ING INFORMATICA 2014\SEMESTRE 6\PGE\EjerciciosFlash\Tarea_5\obj\Debug\Tarea_5.Form1.resources
+C:\Users\ignad\OneDrive - UNIVERSIDAD BLAS PASCAL\ING INFORMATICA 2014\SEMESTRE 6\PGE\EjerciciosFlash\Tarea_5\obj\Debug\Tarea_5.Properties.Resources.resources
+C:\Users\ignad\OneDrive - UNIVERSIDAD BLAS PASCAL\ING INFORMATICA 2014\SEMESTRE 6\PGE\EjerciciosFlash\Tarea_5\obj\Debug\Tarea_5.csproj.GenerateResource.cache
+C:\Users\ignad\OneDrive - UNIVERSIDAD BLAS PASCAL\ING INFORMATICA 2014\SEMESTRE 6\PGE\EjerciciosFlash\Tarea_5\obj\Debug\Tarea_5.csproj.CoreCompileInputs.cache
+C:\Users\ignad\OneDrive - UNIVERSIDAD BLAS PASCAL\ING INFORMATICA 2014\SEMESTRE 6\PGE\EjerciciosFlash\Tarea_5\obj\Debug\Tarea_5.exe
+C:\Users\ignad\OneDrive - UNIVERSIDAD BLAS PASCAL\ING INFORMATICA 2014\SEMESTRE 6\PGE\EjerciciosFlash\Tarea_5\obj\Debug\Tarea_5.pdb
+C:\Users\ignad\OneDrive - UNIVERSIDAD BLAS PASCAL\ING INFORMATICA 2014\SEMESTRE 6\PGE\EjerciciosFlash\Tarea_5\obj\Debug\Tarea_5.exe.config
+C:\Users\ignad\OneDrive - UNIVERSIDAD BLAS PASCAL\ING INFORMATICA 2014\SEMESTRE 6\PGE\EjerciciosFlash\Tarea_5\obj\Debug\Tarea_5.Form2.resources
